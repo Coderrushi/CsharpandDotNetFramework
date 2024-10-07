@@ -1,0 +1,14 @@
+D:\dotNetPractice\csharpbasics\Loops\bin\Debug\net6.0\Loops.exe
+D:\dotNetPractice\csharpbasics\Loops\bin\Debug\net6.0\Loops.deps.json
+D:\dotNetPractice\csharpbasics\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\Loops\bin\Debug\net6.0\Loops.dll
+D:\dotNetPractice\csharpbasics\Loops\bin\Debug\net6.0\Loops.pdb
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\Loops.dll
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\refint\Loops.dll
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\Loops.pdb
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\Loops\obj\Debug\net6.0\ref\Loops.dll
