@@ -1,0 +1,15 @@
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.exe
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.deps.json
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.dll
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.pdb
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.sourcelink.json
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.dll
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\refint\DynamicPolymorphism.dll
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.pdb
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\DynamicPolymorphism\obj\Debug\net6.0\ref\DynamicPolymorphism.dll

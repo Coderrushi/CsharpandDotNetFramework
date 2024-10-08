@@ -1,0 +1,15 @@
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.exe
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.deps.json
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.runtimeconfig.json
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.dll
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.pdb
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.AssemblyInfoInputs.cache
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.AssemblyInfo.cs
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.sourcelink.json
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.dll
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\refint\MultilevelInheritance.dll
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.pdb
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.genruntimeconfig.cache
+D:\dotNetPractice\csharpbasics\MultilevelInheritance\obj\Debug\net6.0\ref\MultilevelInheritance.dll
